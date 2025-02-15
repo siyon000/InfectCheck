@@ -1,8 +1,14 @@
-# React + Vite
+InfectCheck is a secure file upload and malware analysis application built with React and Tailwind CSS, allowing users to upload files that are sent to the VirusTotal API for malware scanning and detection.
+This project is for educational purposes only, and the VirusTotal API is intended solely for personal use, not for business or commercial applications.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
 
-Currently, two official plugins are available:
+    Upload files (e.g., .exe, .pdf, .docx) for malware scanning.
+    Send files to VirusTotal API for analysis.
+    Display scan results, including virus detection status.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+
+    React: For building the frontend user interface.
+    VirusTotal API: For performing malware scans and fetching scan reports.
+    Tailwind CSS: For responsive and modern styling.
