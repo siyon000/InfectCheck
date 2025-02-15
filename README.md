@@ -1,4 +1,4 @@
-InfectCheck is a secure file upload and malware analysis application built with React and Tailwind CSS, allowing users to upload files that are sent to the VirusTotal API for malware scanning and detection.
+InfectCheck is a application built with React and Tailwind CSS, allowing users to upload files that are sent to the VirusTotal API for malware scanning and detection.
 This project is for educational purposes only, and the VirusTotal API is intended solely for personal use, not for business or commercial applications.
 
 Features
